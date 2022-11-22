@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+  background-image: url("3.gif");
+  background-color: #cccccc;
+  background-position: center;
+  height: 350px;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 6rem;
+  font-family: "Rubik Distressed", sans-serif;
+  color: #00d9ff;;
+  text-shadow: 7px 0 #ff0dd7;
+
+}
+
+.w {
+  font-family: "Rubik Glitch", sans-serif;
+}
+
+.a {
+  font-family: "Rubik Glitch", sans-serif;
+
+}
+
+.s {
+  font-family: "Rubik Glitch", sans-serif;
+
+}
+
+.d {
+  font-family: "Rubik Glitch", sans-serif;
+}
+
+.j {
+  font-family: "Rubik Glitch", sans-serif;
+}
+
+.k {
+  font-family: "Rubik Glitch", sans-serif;
+
+}
+
+.l {
+  font-family: "Rubik Glitch", sans-serif;
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: rgb(175, 31, 144);
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #efff0b;
+  box-shadow: 10px 5px 5px rgb(1, 255, 56);
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 700;
+  color: #02e2d7;
+  text-shadow: 8px 0 #f50ee2;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
