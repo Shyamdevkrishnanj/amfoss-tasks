@@ -1,0 +1,51 @@
+/home/shyamdev/tasks/task-05/Server/bin/Debug/net6.0/Server
+/home/shyamdev/tasks/task-05/Server/bin/Debug/net6.0/Server.deps.json
+/home/shyamdev/tasks/task-05/Server/bin/Debug/net6.0/Server.runtimeconfig.json
+/home/shyamdev/tasks/task-05/Server/bin/Debug/net6.0/Server.dll
+/home/shyamdev/tasks/task-05/Server/bin/Debug/net6.0/Server.pdb
+/home/shyamdev/tasks/task-05/Server/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/shyamdev/tasks/task-05/Server/obj/Debug/net6.0/Server.csproj.AssemblyReference.cache
+/home/shyamdev/tasks/task-05/Server/obj/Debug/net6.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/shyamdev/tasks/task-05/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache
+/home/shyamdev/tasks/task-05/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs
+/home/shyamdev/tasks/task-05/Server/obj/Debug/net6.0/Server.csproj.CoreCompileInputs.cache
+/home/shyamdev/tasks/task-05/Server/obj/Debug/net6.0/Server.csproj.CopyComplete
+/home/shyamdev/tasks/task-05/Server/obj/Debug/net6.0/Server.dll
+/home/shyamdev/tasks/task-05/Server/obj/Debug/net6.0/refint/Server.dll
+/home/shyamdev/tasks/task-05/Server/obj/Debug/net6.0/Server.pdb
+/home/shyamdev/tasks/task-05/Server/obj/Debug/net6.0/Server.genruntimeconfig.cache
+/home/shyamdev/tasks/task-05/Server/obj/Debug/net6.0/ref/Server.dll
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/bin/Debug/net6.0/Server
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/bin/Debug/net6.0/Server.deps.json
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/bin/Debug/net6.0/Server.runtimeconfig.json
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/bin/Debug/net6.0/Server.dll
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/bin/Debug/net6.0/ref/Server.dll
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/bin/Debug/net6.0/Server.pdb
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/obj/Debug/net6.0/Server.csproj.AssemblyReference.cache
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/obj/Debug/net6.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/obj/Debug/net6.0/Server.csproj.CoreCompileInputs.cache
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/obj/Debug/net6.0/Server.csproj.CopyComplete
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/obj/Debug/net6.0/Server.dll
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/obj/Debug/net6.0/ref/Server.dll
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/obj/Debug/net6.0/Server.pdb
+/home/sabarinath404/Documents/shyam.NET/task-05 shyam/task-05/Server/obj/Debug/net6.0/Server.genruntimeconfig.cache
+/home/shyamdev/amfoss-tasks/task-05/Server/bin/Debug/net6.0/Server
+/home/shyamdev/amfoss-tasks/task-05/Server/bin/Debug/net6.0/Server.deps.json
+/home/shyamdev/amfoss-tasks/task-05/Server/bin/Debug/net6.0/Server.runtimeconfig.json
+/home/shyamdev/amfoss-tasks/task-05/Server/bin/Debug/net6.0/Server.dll
+/home/shyamdev/amfoss-tasks/task-05/Server/bin/Debug/net6.0/Server.pdb
+/home/shyamdev/amfoss-tasks/task-05/Server/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/shyamdev/amfoss-tasks/task-05/Server/obj/Debug/net6.0/Server.csproj.AssemblyReference.cache
+/home/shyamdev/amfoss-tasks/task-05/Server/obj/Debug/net6.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/shyamdev/amfoss-tasks/task-05/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache
+/home/shyamdev/amfoss-tasks/task-05/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs
+/home/shyamdev/amfoss-tasks/task-05/Server/obj/Debug/net6.0/Server.csproj.CoreCompileInputs.cache
+/home/shyamdev/amfoss-tasks/task-05/Server/obj/Debug/net6.0/Server.csproj.CopyComplete
+/home/shyamdev/amfoss-tasks/task-05/Server/obj/Debug/net6.0/Server.dll
+/home/shyamdev/amfoss-tasks/task-05/Server/obj/Debug/net6.0/refint/Server.dll
+/home/shyamdev/amfoss-tasks/task-05/Server/obj/Debug/net6.0/Server.pdb
+/home/shyamdev/amfoss-tasks/task-05/Server/obj/Debug/net6.0/Server.genruntimeconfig.cache
+/home/shyamdev/amfoss-tasks/task-05/Server/obj/Debug/net6.0/ref/Server.dll

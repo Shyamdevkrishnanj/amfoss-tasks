@@ -87,6 +87,7 @@ def getMovie(message):
 @bot.message_handler(func=lambda message: botRunning, commands=['export'])
 def getList(message):
     bot.reply_to(message, 'Generating your search list...')
+    
     # TODO: 2.2 Send downlodable CSV file to telegram chat
 
 
