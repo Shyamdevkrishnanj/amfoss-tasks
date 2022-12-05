@@ -1,1 +1,2 @@
-
+Making a telebot was enjoyable and simple. I received the majority of the code, as well as a tip on what to do next, which enabled me to complete the assignment. My bot does have some issues, though, and I'm working to fix them. My main issue was writing to the CSV file, which I resolved by viewing several YouTube tutorials.
+[GIF of working of telebot](https://github.com/Shyamdevkrishnanj/amfoss-tasks/blob/main/task-04/test.gif)
