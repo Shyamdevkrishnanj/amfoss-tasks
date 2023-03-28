@@ -9,8 +9,10 @@ from apiomdb import get_movie_info
 # yourkey = os.getenv()
 # bot_id = os.getenv()
 
-bot = telebot.TeleBot('5692998061:AAGtgjoVQ_5HjmogooewO11ikj1HYFUS-sA')
+# bot = telebot.TeleBot('5692998061:AAGtgjoVQ_5HjmogooewO11ikj1HYFUS-sA')
+BOT_TOKEN = os.environ.get('BOT_TOKEN')
 
+bot = telebot.TeleBot(BOT_TOKEN)
 
 @bot.message_handler(commands=['start', 'hello'])
 def greet(message):
@@ -26,6 +28,9 @@ def goodbye(message):
     global botRunning
     botRunning = False
     bot.reply_to(message, 'Bye!\nHave a good time')
+    with open('Search-List.csv', 'w', newline='') as file:
+            file.write('')
+
 
 
 @bot.message_handler(func=lambda message: botRunning, commands=['assist'])
@@ -75,18 +80,26 @@ def getMovie(message):
     # TODO: 1.3 Show the movie information in the chat window
  
     # TODO: 2.1 Create a CSV file and dump the movie information in it
-    movie=[[movie_info['title'] ,movie_info['year'],movie_info['imdb_rating']]]
-    fields = ['Title', 'Year of Release', 'IMDb Rating' ] 
+        movie=[[movie_info['title'] ,movie_info['year'],movie_info['imdb_rating']]]
+        fields = ['Title', 'Year of Release', 'IMDb Rating' ] 
 
-    with open("Search-List.csv", 'a') as csvfile:
-        csvwriter = csv.writer(csvfile)
-        csvwriter.writerow(fields)
-        csvwriter.writerows(movie)
-        csvfile.close()  
+        with open("Search-List.csv", 'a') as csvfile:
+            csvwriter = csv.writer(csvfile)
+            csvwriter.writerow(fields)
+            csvwriter.writerows(movie)
+        csvfile.close()
+        
+    else:{
+        bot.reply_to(message, "Movie Not Found...")
+    }  
 
 @bot.message_handler(func=lambda message: botRunning, commands=['export'])
 def getList(message):
     bot.reply_to(message, 'Generating your search list...')
+    with open("Search-List.csv", 'r') as csvfile:
+        
+        bot.send_document(message.chat.id,csvfile)
+        csvfile.close()
     
     # TODO: 2.2 Send downlodable CSV file to telegram chat
 
