@@ -9,7 +9,7 @@
 | [TASK-00](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-00) | Installing Ubuntu | **Completed** |
 | [TASK-01](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-01)| Staring amFOSS repositories| **Completed** |
 | [TASK-02](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-02)| Terminal Hunt   | **Completed** |
-| [TASK-03] | Programming | **Not Completed** |
+| [TASK-03] | Programming | **Not Attempted** |
 | [TASK-04](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-04) | CineBot | **Completed** |
 | [TASK-05](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-05) | Find The Bug | **Completed** |
 | [TASK-06](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-06)| Flutter | **Completed** |
